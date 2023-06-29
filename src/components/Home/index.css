@@ -1,0 +1,31 @@
+/* Write your CSS code here */
+.Home-con {
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.home-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.shop-now-button {
+  width: 60px;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  color: #ffffff;
+  border: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 6px;
+  background-color: #0967d2;
+  margin-top: 20px;
+  cursor: pointer;
+  outline: none;
+}
+p {
+  font-size: 37px;
+  font-weight: 200;
+}

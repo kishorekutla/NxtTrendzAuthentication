@@ -1,0 +1,45 @@
+/* Write your CSS code here */
+
+.form {
+  width: 300px;
+  height: 400px;
+  border: 1px solid grey;
+  padding: 15px;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.input-field {
+  display: flex;
+  flex-direction: column;
+}
+.shop-now-button {
+  width: 60%;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  color: #ffffff;
+  border: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 6px;
+  background-color: #0967d2;
+  margin-top: 20px;
+  cursor: pointer;
+  outline: none;
+}
+.login-img {
+  width: 800px;
+  height: 500px;
+}
+.website-logo {
+  height: 35px;
+  width: 170px;
+}
+.loginform-con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
